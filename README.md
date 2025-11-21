@@ -50,3 +50,8 @@ A modern, mini social media application built with Express.js and SQLite.
     ```
 
 ## Project Structure
+
+
+## License
+
+MIT
